@@ -1,0 +1,21 @@
+header {
+    background-color: #368df1;
+    color: rgb(7, 7, 7);
+    
+}
+.section1{
+    font-size: 60px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.section{
+justify-content: center;
+}
+
+.section12{
+background-color: #368df1;
+font-size: 20px;
+}
